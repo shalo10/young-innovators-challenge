@@ -6,8 +6,8 @@
 # ============================================================
 
 # --- Your ship ---
-SHIP_NAME = "Victoria Express"
-CREW_DESCRIPTION = "Python enthusiasts learning how to code"
+SHIP_NAME = "UniStar"
+CREW_DESCRIPTION = "Computer Science rookies debugging the galaxy one line at a time."
 
 # --- Starting resources ---
 STARTING_OXYGEN = 10
